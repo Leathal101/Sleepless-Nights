@@ -28,6 +28,6 @@ The project sat around for a while, my brother got married, moved out of Mum and
 
 We discussed the plan, and decided to simplify things. The plan changed to just drop in a complete 1.3L EFI engine from a Suzuki Swift GTI, bringing him up to 74kW. This simplified the conversion significantly, as it's a direct bolt up to the existing drivetrain, and there was atleast ***some*** scattered documentation available online from other people who have completed this.
 
-As some parts were missing, I ended up grabing a complete ending from a wreck for !$500ish. Sent the engine wiring loom and the cluster off to [Camms Wiring Solutions](https://www.facebook.com/cammswiringsolutions/)
+As some parts were missing, I ended up grabing a complete ending from a wreck for ~$500ish. Sent the engine wiring loom and the cluster off to [Camms Wiring Solutions](https://www.facebook.com/cammswiringsolutions/) for him to work his magic.
 
 
