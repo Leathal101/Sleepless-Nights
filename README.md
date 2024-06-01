@@ -41,5 +41,17 @@ Well hooley dooley was the next 8 weeks something else, the ammount of hours, bl
 Along the way I noticed more and more missing parts, and also some parts being extremly diffuclt to find. Halfway through the project, my Mum requested (family was in on it) that I got some back seats for the sierra (They were thrown out previously), This was next to impossible to find. I ended up finding a young lady that was selling some in rural NSW, organised Toll to pick them up, had them in a couple of days! Other parts I had to scavenge was a front bumper (Rural Queensland) and also a rear bumper (Hens teeth for this model, ended up finding one in rural Tasmania!) Maybe I should have gone into parts procurement?
 
 Eventually, I had all the bits I needed, so I statrted eating my peanuts and doing the wrench monkey stuff. A lot of the conversion information I followed was posted by a user called 'masterA' on auszookers.com, this can be found [Here](https://www.auszookers.com/forum/viewtopic.php?t=36242)
+
+-Write about painting
+-Fuel pump
+-Engine mounts
+-40,000 volts
+
+-Write about taking a week off work
+-Wrire about the long days
+-Write about the deadline
+-Write about the first test drive
+-Write about the maiden voyage
+
 .
 
