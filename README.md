@@ -31,6 +31,15 @@ The project sat around for a while, my brother got married, moved out of Mum and
 
 We discussed the plan, and decided to simplify things. The plan changed to just drop in a complete 1.3L EFI engine from a Suzuki Swift GTI, bringing him up to 74kW. This simplified the conversion significantly, as it's a direct bolt up to the existing drivetrain, and there was atleast ***some*** scattered documentation available online from other people who have completed this.
 
-As some parts were missing, I ended up grabing a complete ending from a wreck for ~$500ish. Sent the engine wiring loom and the cluster off to [Camms Wiring Solutions](https://www.facebook.com/cammswiringsolutions/) for him to work his magic.
+As some parts were missing, I ended up grabing a complete engine from a wreck for ~$500ish. Sent the engine wiring loom and the cluster off to [Camms Wiring Solutions](https://www.facebook.com/cammswiringsolutions/) for him to work his magic. As life being as life doing/does, this project fell off my priority list as I moved houses and other priorities came up. Suddenly, I found myself in a similar situation as my brother, time becoming a precious resource. At the same time, I was trying to work a 9-5 as a mechanic, and also do after hours "Cashies" so I had an extra bit of pocket money.
 
+Time was fleeing, one sunday morning I was having a coffee out the back of the house with my partner, and we decided that the car had to go. Well, not "go", but I had to dedicate some serious time to finishing this car. This was about 8 weeks out from my brother's 30th birthday. It was then decided that I was going to finish his car, and surprise him for his 30th birthday with his completed project car.
+
+## The Mission
+Well hooley dooley was the next 8 weeks something else, the ammount of hours, blood, sweat, 40,000 volt electrical shocks, eye sweats (not tears I swear) that was put into this project was like nothing I have ever done before. I started off googling all the specifics required for the conversion, and started ordering parts from Gumtree/Ebay/Amazon like crazy.
+
+Along the way I noticed more and more missing parts, and also some parts being extremly diffuclt to find. Halfway through the project, my Mum requested (family was in on it) that I got some back seats for the sierra (They were thrown out previously), This was next to impossible to find. I ended up finding a young lady that was selling some in rural NSW, organised Toll to pick them up, had them in a couple of days! Other parts I had to scavenge was a front bumper (Rural Queensland) and also a rear bumper (Hens teeth for this model, ended up finding one in rural Tasmania!) Maybe I should have gone into parts procurement?
+
+Eventually, I had all the bits I needed, so I statrted eating my peanuts and doing the wrench monkey stuff. A lot of the conversion information I followed was posted by a user called 'masterA' on auszookers.com, this can be found [Here](https://www.auszookers.com/forum/viewtopic.php?t=36242)
+.
 
