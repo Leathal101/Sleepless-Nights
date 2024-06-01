@@ -1,7 +1,7 @@
 # "Remember when?"
 The process of upgrading the motor in my brother's SJ70 Suzuki Sierra
 
-## The story
+## The Story
 
 Well, well, well. About time I wrote some of this stuff down. I was sitting on a train the other day - Scrolling though photos, and I suddenly realised that ive done some pretty cool projects (If I say so myself!) So I started moving photos into albums so that I could get  some pen to paper (fingers to keyboard?) and write my experience down so I can share with others, and also keep as a memory!
 
@@ -19,13 +19,15 @@ The original plan was big!
 
 -Suzuki Swift GTI DOHC head
 
--Ebay turbo
+-Ebay turbo (heh)
 
 All of it was coming along (slowly but surely), I remember Mum and Dad getting awfully excited when the engine came out of the shed and rolled towards the car for the first time!
 
 ![image](https://github.com/Leathal101/Jimmy-Seirra/assets/118662267/428dd4bd-28e7-46c2-86d4-170d09424225)
 
 The project sat around for a while, my brother got married, moved out of Mum and Dad's house into his own home, and started a family. Soon, time became a precious resource. In the middle of all this, I had moved up to Adelaide, tried out uni (Robotic Engineering), turns out uni wasnt for me, so I jumped into a trade, working as an apprentice motor mechanic for Mercedes Benz. I eventually conviced my brother to send up his car to me, so that I could finish it off for him in my spare time. 
+
+## The Handover
 
 We discussed the plan, and decided to simplify things. The plan changed to just drop in a complete 1.3L EFI engine from a Suzuki Swift GTI, bringing him up to 74kW. This simplified the conversion significantly, as it's a direct bolt up to the existing drivetrain, and there was atleast ***some*** scattered documentation available online from other people who have completed this.
 
