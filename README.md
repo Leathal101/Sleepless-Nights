@@ -43,15 +43,24 @@ Along the way I noticed more and more missing parts, and also some parts being e
 Eventually, I had all the bits I needed, so I statrted eating my peanuts and doing the wrench monkey stuff. A lot of the conversion information I followed was posted by a user called 'masterA' on auszookers.com, this can be found [Here](https://www.auszookers.com/forum/viewtopic.php?t=36242)
 
 -Write about painting
+
 -Fuel pump
+
 -Engine mounts
+
 -40,000 volts
 
 -Write about taking a week off work
+
 -Wrire about the long days
+
 -Write about the deadline
+
 -Write about the first test drive
+
 -Write about the maiden voyage
+
+
 
 .
 
