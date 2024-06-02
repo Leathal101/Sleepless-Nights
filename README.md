@@ -42,21 +42,22 @@ Along the way I noticed more and more missing parts, and also some parts being e
 
 Eventually, I had all the bits I needed, so I statrted eating my peanuts and doing the wrench monkey stuff. A lot of the conversion information I followed was posted by a user called 'masterA' on auszookers.com, this can be found [Here](https://www.auszookers.com/forum/viewtopic.php?t=36242)
 
--Write about painting
+## Just call me Picasso!(?)
+I had a few bits and pieces that needed painting! The side skirts on these Sierras are a plastic strip, and its awfulyl common for rust to form behind these. Low and behold, there was rust on this one, and my brother started the body work a long time ago. I smoothed out he fiberglass reinforced body filler, and slapped some paint on that bad boy, also doing the rear bumper at the same time. While I was at it, I also throw a pretty gunmetal grey at the rims!
 
--Fuel pump
 
--Engine mounts
+## I need a holiday
+It was 2 weeks until D-Day, and still hadn't driven the car, and there was a list which would make grown men cry. I ended up asking my boss for a week off, he was concerned with my short notice, "Is everything ok?" he asked in a worried tone, I let him know the situation, and he smirked and wished me luck. 
 
--40,000 volts
+I ended up working this entire week from 8am-midnight, sometimes creeping a bit further into the AM's, tightening every bolt, securing every cable, fitting all the accessories that my brother had bought over the years. Lightbars, dual battery kits, fuelpump for long range tank, completely rewiring the rear lights, troubleshooting peculiar electrical issues. To this day, I still dont know how I managed to find the motivation and energy to keep going, but I managed.
 
--Write about taking a week off work
+## Lets get creative
 
--Wrire about the long days
+-Write about 3d printed throttle body adapter
 
--Write about the deadline
-
--Write about the first test drive
+## Number Five is alive
+(reference to Short Circuit, a fantastic film from 1985 about a an experimental robot in a lab that is electrocuted, suddenly becomes intelligent, and escapes.)
+The car is running, I can drive it around the block, the lights work, it starts, it stops, everything is buttoned up, tidied up, all the temporary bodge jobs for testing were removed and  I have about 12 hours before I leave for a 4 hour journey to suprise my brother
 
 -Write about the maiden voyage
 
