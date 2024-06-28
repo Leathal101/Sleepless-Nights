@@ -53,14 +53,44 @@ I ended up working this entire week from 8am-midnight, sometimes creeping a bit 
 
 ## Lets get creative
 
--Write about 3d printed throttle body adaptor
+There were a few timea where I had to get creating, and just fabricate a solution as an off the shelf option dodnt exist. Creating a mount
+for the fuel pump, installing accessories, running all the wiring, there are a few examples of where I had to think outside the box.
+
+one that I am particulatly proud of would be the throttle body adapter. the goal was to have this new engine connected up to the snorkel so that my brother could continut his 4X4 adventures. I was currenty dealing with an issue, i needed to connect the Suzuki Swift GTI engine up to the stndard airbox that was connected to the snorkel. The GTI throttle body was a swure flange, so i couldnt just slap a put of pipe on it, and getting it
+cut and welding on some alloy piping was well beyond my extertise at the time. I had done some CAD works over the years, so i sketched up a 3d mode, and got a friend to print it
+out. This worked perfectly! I was then able to use some flexible tubing to connect this all together!
 
 ## Number Five is alive
 (reference to Short Circuit, a fantastic film from 1985 about a an experimental robot in a lab that is electrocuted, suddenly becomes intelligent, and escapes.)
-The car is running, I can drive it around the block, the lights work, it starts, it stops, everything is buttoned up, tidied up, all the temporary bodge jobs for testing were removed and  I have about 12 hours before I leave for a 4 hour journey to surprise my brother
+The car is running, I can drive it around the block, the lights work, it starts, it stops, everything is mostly buttoned up, tidied up, all the temporary bodge jobs for testing were removed and  I have about 12 hours before I leave for a 4 hour journey to surprise my brother.
+I was missing the gear shifter boot, so at about 8pm, without and extended testing, I drove 30 mins through suburbia to pick up this part from facebook marketplace, drove back, no issues.
 
--Write about the maiden voyage
+I then proceed to get the most amount of sleep i have gotten in weeks (probably 6 hours), and the started the true "road test", which consisted of a 4 hour road trip to a costal town where we have an annual family catchup weekend. The drive was tough, only due to sleep deprivation, the car didnt miss a beat, apart from me thinking I punched a hole in the fuel tank (the fuel gauge was doing funny things.)
 
+i probably got there around lunch time, and my brother wasnt due to arrive until about 6pm or
+so.I hid the car behind the cabin i was staying in so that he couldnt see it.
+
+He arrived with his family, i remember sitting down and
+having dinner with him first, asking how ive been. I distinctly remember his askin how I have been, ans I replied with a "Ive been heaps busy working on cars at home" and he replied with a cheeky joking tone "Working on the Zook?". I disarmed the situation wnd let him know i have been working on other projects cars (my family were eying off eachother as they couldnt wait to surprise him with his car)
+
+Eventually mum said "Lets go check out Leathal101's cabin" we made out
+way over there, my
+brother was clueless. I will pop in a few screenshots of a video which was taken as we areived, but ill forever remember the smile on hos face when i
+we walked behind the cabin and I pulled the car cover off.
+
+We had a fantastic weekend together, my brother eas forever greatful, and i was glad to see a few months of blood sweat and tears all be worth it by seeing how happy it
+made my brother.
+
+
+## Lets close this out
+
+I learnt a few things from this project
+- Do good onto those who do good upon you
+- Dont take on other people projects 
+- Measure twice, cut once
+
+Manor shoutout to my wonderful partner, who took care of me during the crazy last 2 weeks and looking after my sleep deprived self. Second me tions to my
+family for keeping this all a secret. What a wild ride, id like to say if this came up again, I woulsnt do it. But something inside of me just wouldnt be anle to resist.
 
 
 .
