@@ -61,25 +61,17 @@ cut and welding on some alloy piping was well beyond my extertise at the time. I
 out. This worked perfectly! I was then able to use some flexible tubing to connect this all together!
 
 ## Number Five is alive
-(reference to Short Circuit, a fantastic film from 1985 about a an experimental robot in a lab that is electrocuted, suddenly becomes intelligent, and escapes.)
-The car is running, I can drive it around the block, the lights work, it starts, it stops, everything is mostly buttoned up, tidied up, all the temporary bodge jobs for testing were removed and  I have about 12 hours before I leave for a 4 hour journey to surprise my brother.
-I was missing the gear shifter boot, so at about 8pm, without and extended testing, I drove 30 mins through suburbia to pick up this part from facebook marketplace, drove back, no issues.
+(Reference to "Short Circuit," a fantastic film from 1985 about an experimental robot in a lab that is electrocuted, suddenly becomes intelligent, and escapes.) The car is running; I can drive it around the block, the lights work, it starts, it stops, everything is mostly buttoned up, tidied up, all the temporary bodge jobs for testing were removed, and I have about 12 hours before I leave for a 4-hour journey to surprise my brother. I was missing the gear shifter boot, so at about 8 pm, without extended testing, I drove 30 minutes through suburbia to pick up this part from Facebook Marketplace, drove back, no issues.
 
-I then proceed to get the most amount of sleep i have gotten in weeks (probably 6 hours), and the started the true "road test", which consisted of a 4 hour road trip to a costal town where we have an annual family catchup weekend. The drive was tough, only due to sleep deprivation, the car didnt miss a beat, apart from me thinking I punched a hole in the fuel tank (the fuel gauge was doing funny things.)
+I then proceeded to get the most amount of sleep I have gotten in weeks (probably 6 hours) and started the true "road test," which consisted of a 4-hour road trip to a coastal town where we have an annual family catch-up weekend. The drive was tough only due to sleep deprivation; the car didn't miss a beat, apart from me thinking I punched a hole in the fuel tank (the fuel gauge was doing funny things).
 
-i probably got there around lunch time, and my brother wasnt due to arrive until about 6pm or
-so.I hid the car behind the cabin i was staying in so that he couldnt see it.
+I probably got there around lunchtime, and my brother wasn't due to arrive until about 6 pm or so. I hid the car behind the cabin I was staying in so that he couldn't see it.
 
-He arrived with his family, i remember sitting down and
-having dinner with him first, asking how ive been. I distinctly remember his askin how I have been, ans I replied with a "Ive been heaps busy working on cars at home" and he replied with a cheeky joking tone "Working on the Zook?". I disarmed the situation wnd let him know i have been working on other projects cars (my family were eying off eachother as they couldnt wait to surprise him with his car)
+He arrived with his family. I remember sitting down and having dinner with him first, asking how I've been. I distinctly remember him asking how I have been, and I replied with "I've been heaps busy working on cars at home." He replied with a cheeky, joking tone, "Working on the Zook?" I disarmed the situation and let him know I have been working on other project cars (my family were eyeing each other as they couldn't wait to surprise him with his car).
 
-Eventually mum said "Lets go check out Leathal101's cabin" we made out
-way over there, my
-brother was clueless. I will pop in a few screenshots of a video which was taken as we areived, but ill forever remember the smile on hos face when i
-we walked behind the cabin and I pulled the car cover off.
+Eventually, Mum said, "Let's go check out Lethal101's cabin." We made our way over there, and my brother was clueless. I will pop in a few screenshots of a video which was taken as we arrived, but I'll forever remember the smile on his face when we walked behind the cabin and I pulled the car cover off.
 
-We had a fantastic weekend together, my brother eas forever greatful, and i was glad to see a few months of blood sweat and tears all be worth it by seeing how happy it
-made my brother.
+We had a fantastic weekend together; my brother was forever grateful, and I was glad to see a few months of blood, sweat, and tears all be worth it by seeing how happy it made my brother.
 
 
 ## Lets close this out
